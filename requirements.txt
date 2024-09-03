@@ -1,0 +1,5 @@
+Flask
+gevent-websocket
+flask-sockets
+openai-whisper
+gevent
